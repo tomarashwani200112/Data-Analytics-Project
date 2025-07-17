@@ -30,7 +30,7 @@ This repository contains a Jupyter Notebook. The project demonstrates data wrang
 
 ---
 
-## 📌 Key Insights (Sample - Replace with Your Actual Findings)
+## 📌 Key Insights
 
 - Identified major trends and anomalies in the dataset
 - Highlighted correlations between key variables
